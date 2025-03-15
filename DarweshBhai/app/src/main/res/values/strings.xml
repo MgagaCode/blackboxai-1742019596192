@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Darwesh Bhai</string>
+    
+    <!-- Accessibility Service -->
+    <string name="accessibility_service_description">Darwesh Bhai needs accessibility service to monitor and manage app usage, helping you maintain digital well-being by implementing focus mode and app usage limits.</string>
+    
+    <!-- Common -->
+    <string name="continue_text">Continue</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    
+    <!-- Permissions -->
+    <string name="permissions_title">Required Permissions</string>
+    <string name="permissions_description">Darwesh Bhai needs the following permissions to help you maintain digital well-being effectively:</string>
+    <string name="usage_access_title">Usage Access</string>
+    <string name="usage_access_description">Required to monitor app usage and help you maintain digital well-being</string>
+    <string name="overlay_permission_title">Overlay Permission</string>
+    <string name="overlay_permission_description">Needed to display important notifications and reminders</string>
+    <string name="accessibility_title">Accessibility Service</string>
+    <string name="accessibility_description">Required to help manage app usage and implement focus mode</string>
+    
+    <!-- Dashboard -->
+    <string name="dashboard_greeting_morning">Good Morning</string>
+    <string name="dashboard_greeting_afternoon">Good Afternoon</string>
+    <string name="dashboard_greeting_evening">Good Evening</string>
+    <string name="dashboard_subtitle">Let\'s maintain your digital well-being</string>
+    
+    <!-- Focus Mode -->
+    <string name="focus_mode_title">Focus Mode</string>
+    <string name="pomodoro">Pomodoro</string>
+    <string name="short_break">Short Break</string>
+    <string name="long_break">Long Break</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="reset">Reset</string>
+    <string name="focus_tip_pomodoro">Stay focused for 25 minutes, then take a break</string>
+    <string name="focus_tip_short_break">Take a quick 5-minute break to refresh</string>
+    <string name="focus_tip_long_break">Enjoy a longer 15-minute break after 4 pomodoros</string>
+    
+    <!-- Tasks -->
+    <string name="tasks_title">Tasks</string>
+    <string name="add_task">Add Task</string>
+    <string name="task_title">Task Title</string>
+    <string name="task_description">Description (Optional)</string>
+    <string name="priority_high">High</string>
+    <string name="priority_medium">Medium</string>
+    <string name="priority_low">Low</string>
+    <string name="no_tasks">No tasks yet</string>
+    <string name="no_tasks_subtitle">Add your first task by tapping the + button</string>
+    
+    <!-- Profile & Settings -->
+    <string name="profile_title">Profile &amp; Settings</string>
+    <string name="app_settings">App Settings</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="dark_mode_description">Switch between light and dark theme</string>
+    <string name="notifications">Notifications</string>
+    <string name="notifications_description">Enable or disable app notifications</string>
+    <string name="language">Language</string>
+    <string name="language_description">Choose your preferred language</string>
+    <string name="strict_mode">Strict Mode</string>
+    <string name="strict_mode_description">Prevent easy bypassing of app limits</string>
+    <string name="usage_statistics">Usage Statistics</string>
+    <string name="usage_statistics_description">View your app usage data</string>
+    <string name="focus_settings">Focus Settings</string>
+    <string name="focus_settings_description">Customize focus mode preferences</string>
+    <string name="about">About</string>
+    <string name="app_version">App Version</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="help_support">Help &amp; Support</string>
+    
+    <!-- Usage Stats -->
+    <string name="screen_time">Screen Time</string>
+    <string name="app_limits">App Limits</string>
+    <string name="insights">Insights</string>
+    <string name="today">Today</string>
+    <string name="this_week">This Week</string>
+    <string name="this_month">This Month</string>
+    
+    <!-- Notifications -->
+    <string name="focus_session_complete">Focus Session Complete!</string>
+    <string name="break_time">Break Time!</string>
+    <string name="app_limit_reached">App Limit Reached</string>
+    <string name="take_a_break">Time to take a break</string>
+</resources>
